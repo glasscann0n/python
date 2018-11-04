@@ -1,0 +1,3 @@
+# python
+learning python
+goal:
